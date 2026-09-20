@@ -1,0 +1,15 @@
+{
+  "service": "limb-salvage-network",
+  "source_context": "http://health.people.com.cn/n1/2026/0914/c14739-40798045.html",
+  "sample": {
+    "alert_id": "TRAUMA-006H-17",
+    "injury_at": "2026-09-14T13:05:00+08:00",
+    "preservation": "冷藏干燥",
+    "injuries": [
+      {
+        "part": "右手指尖",
+        "vessel_mm": 0.5
+      }
+    ]
+  }
+}
